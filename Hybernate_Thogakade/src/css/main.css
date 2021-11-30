@@ -1,0 +1,13 @@
+.loginicon{
+    -fx-background-image:url("/asserts/ic.png");
+    -fx-background-size: 100% 100%;
+}
+
+.icon {
+    -fx-background-image:url("/asserts/icon.jpg");
+    -fx-background-size: 100% 100%;
+}
+.main {
+    -fx-background-image:url("/asserts/supermarket.jpg");
+    -fx-background-size: 100% 100%;
+}
